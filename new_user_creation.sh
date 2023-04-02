@@ -45,6 +45,7 @@ Here are your system login credentials. You can use the following details to log
 
 Username: $username
 Password: $password
+
 Please note that this is a one-time password, and we recommend that you change it immediately after logging in for the first time.
 
 Once again, welcome to the team, and we look forward to working with you.
