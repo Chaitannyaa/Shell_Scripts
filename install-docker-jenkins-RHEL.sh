@@ -1,3 +1,4 @@
+#!/bin/bash
 # SHELL SCRIPT TO INSTALL DOCKER AND JENKINS
 
 # Install Docker
