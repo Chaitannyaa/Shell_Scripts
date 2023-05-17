@@ -30,4 +30,4 @@ sudo systemctl start jenkins
 docker --version
 java -version
 jenkins --version
-sudo systemctl status jenkins
+sudo systemctl start jenkins
